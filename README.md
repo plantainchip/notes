@@ -9,3 +9,7 @@
 - [15-03-2023 Inheritance, Polymorphism and Abstract Classes](/cs212/15-03-2023.md)
 - [20-03-2023 abstract classes examples](/cs212/20-03-2023.md)
 - [22-03-2023 event driven programming](/cs212/22-03-2023.md)
+
+## cs211
+
+- [midterm-notes](/cs211/midterm-notes.md)
