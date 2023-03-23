@@ -13,3 +13,6 @@
 ## cs211
 
 - [midterm-notes](/cs211/midterm-notes.md)
+- [Introduction terms](/cs211/1.md)
+- [8 queens problem](/cs211/2.md)
+
