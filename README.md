@@ -16,5 +16,5 @@
 - [8 queens problem](/cs211/2.md)
 - [8 numbers in a cross problem](/cs211/3.md)
 - [stable marriage](/cs211/4.md)
-
+- [pointers](/cs211/5.md)
 
