@@ -12,9 +12,10 @@
 
 ## cs211
 
-- [Introduction terms](/cs211/1.md)
+- [introduction terms](/cs211/1.md)
 - [8 queens problem](/cs211/2.md)
 - [8 numbers in a cross problem](/cs211/3.md)
 - [stable marriage](/cs211/4.md)
 - [pointers](/cs211/5.md)
+- [structs and vectors](/cs211/6.md)
 
