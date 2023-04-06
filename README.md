@@ -21,3 +21,6 @@
 - [pointers](/cs211/5.md)
 - [structs and vectors](/cs211/6.md)
 
+## math141
+
+- [day1](/math141/day1.md)
