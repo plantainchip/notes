@@ -1,7 +1,8 @@
 ## Domain review
 
-
+Find the domain of 
 ```math
-Find the domain of  
-\sqrt{3}
+
+f(x) = \frac{x-1}{2x^2 + 9x - 5}
+
 ```
